@@ -1,0 +1,4 @@
+baseURL = "https://goodquotesbrother.vercel.app"
+languageCode = "en-us"
+title = "Good Quotes About Life"
+theme = "hugo-theme-minos"
